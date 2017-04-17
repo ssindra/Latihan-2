@@ -1,0 +1,3 @@
+rootProject.name = 'Listltems'
+
+include ':app'
